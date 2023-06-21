@@ -1,0 +1,14 @@
+.head {
+    background-color: purple;
+    text-align: center;
+}
+body {
+    background-image: url(https://todayinhistorydotblog.files.wordpress.com/2020/05/9939470a6f9152f2ccf922bddd45cf53.jpg);
+
+
+
+}
+li {
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
